@@ -1,0 +1,10 @@
+# Ignore only huge raw data
+*.csv
+*.pbix
+
+# Keep project structure
+!sql/
+!scripts/
+!README.md
+!data2/
+!.gitattributes
